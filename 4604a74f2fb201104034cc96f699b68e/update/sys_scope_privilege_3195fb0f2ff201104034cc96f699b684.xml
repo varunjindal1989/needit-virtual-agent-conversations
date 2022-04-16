@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">4604a74f2fb201104034cc96f699b68e</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-16 14:10:30</sys_created_on>
+        <sys_id>3195fb0f2ff201104034cc96f699b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_677299_needit_vi">4604a74f2fb201104034cc96f699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4604a74f2fb201104034cc96f699b68e</sys_scope>
+        <sys_update_name>sys_scope_privilege_3195fb0f2ff201104034cc96f699b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-16 14:10:30</sys_updated_on>
+        <target_name>x_58872_needit_needit</target_name>
+        <target_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

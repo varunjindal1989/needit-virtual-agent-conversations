@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">4604a74f2fb201104034cc96f699b68e</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-16 14:10:30</sys_created_on>
+        <sys_id>f995fb0f2ff201104034cc96f699b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecordSecure.getValue</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_677299_needit_vi">4604a74f2fb201104034cc96f699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4604a74f2fb201104034cc96f699b68e</sys_scope>
+        <sys_update_name>sys_scope_privilege_f995fb0f2ff201104034cc96f699b681</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-16 14:10:30</sys_updated_on>
+        <target_name>GlideRecordSecure.getValue</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
